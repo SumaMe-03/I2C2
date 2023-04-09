@@ -11,7 +11,7 @@ For this prototype, we have chosen dengue as our target disease and are predicti
 
 The model has been trained using classification
 
-This project prototype is accesible only through Linux operating system as we have used libraries that can be accessible through linux only. 
+This project prototype is accesible only through Linux operating system as we have used libraries that are specific to Linux. 
 
 The model accuracy and predictions, statewise traits and graphs showing the number of cases for each state can be seen as the output of the above trained model 
 
