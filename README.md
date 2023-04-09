@@ -10,3 +10,11 @@ As the severity of most diseases is highly dependent on rapidly changing environ
 For this prototype, we have chosen dengue as our target disease and are predicting the traits for each state depending on the number of dengue cases in that partiular state.
 
 The model has been trained using classification
+
+This project prototype is accesible only through Linux operating system as we have used libraries that can be accessible through linux only. 
+
+The model accuracy and predictions, statewise traits and graphs showing the number of cases for each state can be seen as the output of the above trained model 
+
+Since this is a Web development project, the access link of the website is unique to each user as it is in prototype phase. 
+Hence, to access the link of the webpage, first run the app.py file in linux by giving the command  python app.py
+The deployment link will then be active for the user to use. 
